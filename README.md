@@ -46,12 +46,12 @@ Notebook ini berisi analisis performa **defensif Southampton** pada musim **Prem
 6. **Insight & Kesimpulan**  
    Menyajikan interpretasi hasil analisis terkait kekuatan dan kelemahan Southampton di lini belakang.  
 
-## 📊 Contoh Visualisasi
+## Contoh Visualisasi
 - Boxplot distribusi **Tkl_Percentage** antar tim  
 - Distribusi kesalahan pemain Southampton (Errors)  
 - Perbandingan **Blocks (Total, Shots, Passes)** antar tim  
 
-## ⚙️ Cara Menjalankan
+## Cara Menjalankan
 1. Clone repository / unduh notebook  
 2. Install requirements:  
    ```bash
@@ -60,10 +60,10 @@ Notebook ini berisi analisis performa **defensif Southampton** pada musim **Prem
 3. Buka notebook di JupyterLab / VS Code / Google Colab  
 4. Jalankan sel secara berurutan  
 
-## 📑 Dataset
+## Dataset
 1. Data dari kaggle: [Football Matches 2024/25 — Dataset](https://www.kaggle.com/datasets/tarekmasryo/football-matches-20242025-top-5-leagues) Berisi data dari 6 Liga top Eropa yang nantinya akan bisa dipisahkan menjadi data Premier League Untuk melihat kiprah Southampton
 2. Data hasil scrapping website: [Fbref.com](https://fbref.com/en/comps/9/2024-2025/2024-2025-Premier-League-Stats) difokuskan untuk statistik pemain di Premier League musim 2024/2025.
 
-## 📝 Catatan
+## Catatan
 1. Analisis ini hanya fokus pada **Southampton** dan perbandingan dengan beberapa tim Premier League lain. Hasil insight dapat dijadikan bahan evaluasi performa tim di musim 2024/25.
 2. Hasil insight juga sudah dibuat dalam bentuk artikel dan bisa dibaca di [medium.com](https://medium.com/@SatrioPrabowo/premier-league-24-25-musim-berat-untuk-southampton-yang-berujung-degradasi-ab3ac4a720cf)
